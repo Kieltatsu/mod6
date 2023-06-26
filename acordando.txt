@@ -1,0 +1,10 @@
+inicio
+1 acordo com o despertador tocando
+2 abro os olhos 
+3 pego o celular
+4 desligo o despertador
+5 imediatamente levanto
+6 calço o chinelo
+7 abro a porta
+8 saio do quarto
+fim
